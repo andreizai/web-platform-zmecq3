@@ -1,0 +1,28 @@
+body {
+  background-color: #fbfafa;
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  width: 400px;
+  height: 400px;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.payment-details {
+  padding: 10px;
+  background-color: #fbd600;
+  width: 30%;
+  height: 100%;
+}
+
+.payment-status {
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
